@@ -2,6 +2,6 @@
 
 ## Descripcion
 No muy original template de react empaquetado con Parcel
-*React
-*Eslint
-*Prettier
+  * React
+  * Eslint
+  * Prettier
